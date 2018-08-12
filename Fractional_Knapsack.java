@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 class Greedy_Knapsack_Problem
 {
-   public static void main(String[] args) {
+   public static void main(String[] args) throws IOException {
    		Scanner sc=new Scanner(System.in);
    		int i,j=0,m;
    		float sum=0,max=0;
